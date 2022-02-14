@@ -1,3 +1,3 @@
 <pre>
-	 HI THERE!! 						8-)
+	 HI THERE!! 						:)
 </pre>
